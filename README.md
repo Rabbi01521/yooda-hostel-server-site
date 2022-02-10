@@ -33,5 +33,3 @@
 - React
 - react-router-dom
 - material ui
-- stripe
-- base64 for file upload.
